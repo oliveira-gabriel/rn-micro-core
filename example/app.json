@@ -1,0 +1,22 @@
+{
+  "name": "rn-micro-core-example",
+  "displayName": "RnMicroCore Example",
+  "expo": {
+    "name": "rn-micro-core-example",
+    "slug": "rn-micro-core-example",
+    "description": "Example app for rn-micro-core",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
