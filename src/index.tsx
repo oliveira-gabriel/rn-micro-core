@@ -6,5 +6,5 @@ export function multiply(a: number, b: number): Promise<number> {
 }
 
 export function TextLabel() {
-  return <Text>{'MUITO BEM MUITO BOM!'}</Text>;
+  return <Text>{'Component example'}</Text>;
 }
